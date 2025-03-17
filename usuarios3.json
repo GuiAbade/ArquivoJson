@@ -1,0 +1,23 @@
+{
+  "usuarios":[
+    {
+      "nome": "Carol",
+      "telefone": "47-99224-8852",
+      "permissões": [
+        "basico",
+        "intermediario",
+        "Administrador"
+      ],
+      "admin": true
+    },
+    {
+      "nome": "Duoglas",
+      "telefone": "47-99224-8852",
+      "permissões": [
+        "basico",
+        "intermediario"
+      ],
+      "admin": false
+    }
+  ]
+}
